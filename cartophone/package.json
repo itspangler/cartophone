@@ -1,0 +1,19 @@
+{
+  "name": "cartophone",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.5.4",
+    "astro": "^4.4.0",
+    "ol": "^8.2.0",
+    "tone": "^14.7.77",
+    "typescript": "^5.3.3"
+  }
+}
